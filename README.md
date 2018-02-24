@@ -7,7 +7,7 @@ You can play NumberWizard here: <a href="https://tungbox.tk/arcade/NumberWizard"
 <p>Menu</p>
 <img src="https://github.com/TungBox/NumberWizardUI/blob/master/Screenshots/Welcome-Screen.png" alt="Welcome Screen">
 <p>Gameplay</p>
-<img src="https://github.com/TungBox/NumberWizardUI/blob/master/Screenshots/Guess-Screen" alt"Game Screen">
+<img src="https://github.com/TungBox/NumberWizardUI/blob/master/Screenshots/Guess-Screen.png" alt"Game Screen">
 <p>Win</p>
 <imt src="https://github.com/TungBox/NumberWizardUI/blob/master/Screenshots/Win-Screen.png" alt"Win Screen"
 <p>Lose</p>
