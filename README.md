@@ -9,6 +9,6 @@ You can play NumberWizard here: <a href="https://tungbox.tk/arcade/NumberWizard"
 <p>Gameplay</p>
 <img src="https://github.com/TungBox/NumberWizardUI/blob/master/Screenshots/Guess-Screen.png" alt"Game Screen">
 <p>Win</p>
-<imt src="https://github.com/TungBox/NumberWizardUI/blob/master/Screenshots/Win-Screen.png" alt"Win Screen"
+<imt src="https://github.com/TungBox/NumberWizardUI/blob/master/Screenshots/Win-Screen.png" alt"Win Screen">
 <p>Lose</p>
 <img src="https://github.com/TungBox/NumberWizardUI/blob/master/Screenshots/Lose-Screen.png" alt"Lose Screen">
